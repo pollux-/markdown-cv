@@ -3,7 +3,8 @@ layout: cv
 title: Sreekumar Anjali Bhavan Vijayan.
 ---
 # Sreekumar Anjali Bhavan Vijayan
-Android, Kotlin, RxJava, Dagger, Architecture components.
+
+<br>Android, Kotlin, RxJava, Dagger, Architecture components.
 
 <div id="webaddress">
 <a href="sreevijayan.ak@gmail.com" style="color:#36AE7C;">sreevijayan.ak@gmail.com</a>
@@ -109,7 +110,7 @@ Code optimization and performance improvement.
 Push Notification, Facebook, Twitter, and Omniture integration. Involved in unit
 testing.
 
-___2. IBNLive__
+__2. IBNLive__
 - Client: IBN
 - Team Size: 5
 - Environment: Android 2.1, Java, Ubuntu 10.04, SVN, eclipse, web server
